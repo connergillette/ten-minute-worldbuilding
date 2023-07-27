@@ -18,8 +18,8 @@ import Nav from './components/Nav'
 
 export const meta: V2_MetaFunction = () => {
   return [
-    { title: "New Remix App" },
-    { name: "description", content: "Welcome to Remix!" },
+    { title: "Ten Minute Worldbuilding" },
+    { name: "description", content: "A simple worldbuilding brainstorming and organization tool." },
   ];
 };
 
